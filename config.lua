@@ -14,7 +14,7 @@ Config.Zones = {
 		Robbed = 0, -- DO NOT CHANGE
 		TimeToRob = 300, -- Default 300 (5Mins)
 		TimeBeforeNewRob = 1800, -- Default 1800 (30Mins)
-		PoliceRequired = 3
+		PoliceRequired = 1
 	},
 	["24/7 Senora Fwy 1 | Paleto Bay"] = {
 		Coords = vector3(1736.32, 6419.47, 34.03),
@@ -24,7 +24,7 @@ Config.Zones = {
 		Robbed = 0, -- DO NOT CHANGE
 		TimeToRob = 300, -- Default 300 (5Mins)
 		TimeBeforeNewRob = 1800, -- Default 1800 (30Mins)
-		PoliceRequired = 3
+		PoliceRequired = 1
 	},
 	["24/7 Senora Fwy 2 | Sandy Shores"] = {
 		Coords = vector3(2673.28, 3286.25, 54.24),
@@ -34,7 +34,7 @@ Config.Zones = {
 		Robbed = 0, -- DO NOT CHANGE
 		TimeToRob = 300, -- Default 300 (5Mins)
 		TimeBeforeNewRob = 1800, -- Default 1800 (30Mins)
-		PoliceRequired = 3
+		PoliceRequired = 1
 	},
 	["24/7 Alhambra Dr | Sandy Shores"] = {
 		Coords = vector3(1961.24, 3749.46, 31.34),
@@ -44,7 +44,7 @@ Config.Zones = {
 		Robbed = 0, -- DO NOT CHANGE
 		TimeToRob = 300, -- Default 300 (5Mins)
 		TimeBeforeNewRob = 1800, -- Default 1800 (30Mins)
-		PoliceRequired = 3
+		PoliceRequired = 1
 	},
 	["24/7 Palomino Fwy | Sandy Shores"] = {
 		Coords = vector3(2549.88, 384.74, 107.62),
@@ -54,7 +54,7 @@ Config.Zones = {
 		Robbed = 0, -- DO NOT CHANGE
 		TimeToRob = 300, -- Default 300 (5Mins)
 		TimeBeforeNewRob = 1800, -- Default 1800 (30Mins)
-		PoliceRequired = 3
+		PoliceRequired = 1
 	},
 	["24/7 Little Seoul | Los Santos"] = {
 		Coords = vector3(-709.17, -904.21, 18.21),
@@ -64,7 +64,7 @@ Config.Zones = {
 		Robbed = 0, -- DO NOT CHANGE
 		TimeToRob = 300, -- Default 300 (5Mins)
 		TimeBeforeNewRob = 1800, -- Default 1800 (30Mins)
-		PoliceRequired = 3
+		PoliceRequired = 1
 	},
 	["24/7 Clinton Ave | Los Santos"] = {
 		Coords = vector3(377.97, 332.78, 102.57),
@@ -74,7 +74,7 @@ Config.Zones = {
 		Robbed = 0, -- DO NOT CHANGE
 		TimeToRob = 300, -- Default 300 (5Mins)
 		TimeBeforeNewRob = 1800, -- Default 1800 (30Mins)
-		PoliceRequired = 3
+		PoliceRequired = 1
 	},
 	["24/7 Ineseno Road | Los Santos"] = {
 		Coords = vector3(-3047.13, 585.81, 6.91),
@@ -84,7 +84,7 @@ Config.Zones = {
 		Robbed = 0, -- DO NOT CHANGE
 		TimeToRob = 300, -- Default 300 (5Mins)
 		TimeBeforeNewRob = 1800, -- Default 1800 (30Mins)
-		PoliceRequired = 3
+		PoliceRequired = 1
 	},
 	["24/7 Barbareno Rd | Los Santos"] = {
 		Coords = vector3(-3249.31, 1004.27, 11.83),
@@ -94,7 +94,7 @@ Config.Zones = {
 		Robbed = 0, -- DO NOT CHANGE
 		TimeToRob = 300, -- Default 300 (5Mins)
 		TimeBeforeNewRob = 1800, -- Default 1800 (30Mins)
-		PoliceRequired = 3
+		PoliceRequired = 1
 	},
 	["24/7 Route 68 | Paleto Bay"] = {
 		Coords = vector3(546.29, 2663.37, 41.16),
@@ -104,7 +104,7 @@ Config.Zones = {
 		Robbed = 0, -- DO NOT CHANGE
 		TimeToRob = 300, -- Default 300 (5Mins)
 		TimeBeforeNewRob = 1800, -- Default 1800 (30Mins)
-		PoliceRequired = 3
+		PoliceRequired = 1
 	},
 	-- LTD GAS
 	["LTD Gasoline Grove Street | Los Santos"] = {
@@ -115,7 +115,7 @@ Config.Zones = {
 		Robbed = 0, -- DO NOT CHANGE
 		TimeToRob = 300, -- Default 300 (5Mins)
 		TimeBeforeNewRob = 1800, -- Default 1800 (30Mins)
-		PoliceRequired = 3
+		PoliceRequired = 1
 	},
 	["LTD Gasoline Mirror Park | Los Santos"] = {
 		Coords = vector3(1160.67, -314.40, 68.20),
@@ -125,7 +125,7 @@ Config.Zones = {
 		Robbed = 0, -- DO NOT CHANGE
 		TimeToRob = 300, -- Default 300 (5Mins)
 		TimeBeforeNewRob = 1800, -- Default 1800 (30Mins)
-		PoliceRequired = 3
+		PoliceRequired = 1
 	},
 	["LTD Gasoline Banham Canyon Dr | Los Santos"] = {
 		Coords = vector3(-1828.06, 799.17, 137.17),
@@ -135,7 +135,7 @@ Config.Zones = {
 		Robbed = 0, -- DO NOT CHANGE
 		TimeToRob = 300, -- Default 300 (5Mins)
 		TimeBeforeNewRob = 1800, -- Default 1800 (30Mins)
-		PoliceRequired = 3
+		PoliceRequired = 1
 	},
 	["LTD Gasoline Grapeseed Main St | Grapeseed"] = {
 		Coords = vector3(1707.15, 4919.88, 41.06),
@@ -145,7 +145,7 @@ Config.Zones = {
 		Robbed = 0, -- DO NOT CHANGE
 		TimeToRob = 300, -- Default 300 (5Mins)
 		TimeBeforeNewRob = 1800, -- Default 1800 (30Mins)
-		PoliceRequired = 3
+		PoliceRequired = 1
 	},
 	-- ROBS LIQUOR
 	["Robs Liquor Great Ocean Hwy | Los Santos"] = {
@@ -156,7 +156,7 @@ Config.Zones = {
 		Robbed = 0, -- DO NOT CHANGE
 		TimeToRob = 300, -- Default 300 (5Mins)
 		TimeBeforeNewRob = 1800, -- Default 1800 (30Mins)
-		PoliceRequired = 3
+		PoliceRequired = 1
 	},
 	["Robs Liquor El Rancho Blvd | Los Santos"] = {
 		Coords = vector3(1126.80, -980.40, 44.41),
@@ -166,7 +166,7 @@ Config.Zones = {
 		Robbed = 0, -- DO NOT CHANGE
 		TimeToRob = 300, -- Default 300 (5Mins)
 		TimeBeforeNewRob = 1800, -- Default 1800 (30Mins)
-		PoliceRequired = 3
+		PoliceRequired = 1
 	},
 	["Robs Liquor San Andreas Ave | Los Santos"] = {
 		Coords = vector3(-1219.85, -916.27, 10.32),
@@ -176,7 +176,7 @@ Config.Zones = {
 		Robbed = 0, -- DO NOT CHANGE
 		TimeToRob = 300, -- Default 300 (5Mins)
 		TimeBeforeNewRob = 1800, -- Default 1800 (30Mins)
-		PoliceRequired = 3
+		PoliceRequired = 1
 	},
 	["Robs Liquor Prosperity St | Los Santos"] = {
 		Coords = vector3(-1479.25, -374.17, 38.16),
@@ -186,7 +186,7 @@ Config.Zones = {
 		Robbed = 0, -- DO NOT CHANGE
 		TimeToRob = 300, -- Default 300 (5Mins)
 		TimeBeforeNewRob = 1800, -- Default 1800 (30Mins)
-		PoliceRequired = 3
+		PoliceRequired = 1
 	},
 	["Scoops Liquor Barn Route 68 | Sandy Shores"] = {
 		Coords = vector3(1168.49, 2718.43, 36.16),
@@ -196,7 +196,7 @@ Config.Zones = {
 		Robbed = 0, -- DO NOT CHANGE
 		TimeToRob = 300, -- Default 300 (5Mins)
 		TimeBeforeNewRob = 1800, -- Default 1800 (30Mins)
-		PoliceRequired = 3
+		PoliceRequired = 1
 	},
 	["Ace Liquor Algonquin Blvd | Sandy Shores"] = {
 		Coords = vector3(1396.54, 3610.97, 33.98),
@@ -206,7 +206,7 @@ Config.Zones = {
 		Robbed = 0, -- DO NOT CHANGE
 		TimeToRob = 300, -- Default 300 (5Mins)
 		TimeBeforeNewRob = 1800, -- Default 1800 (30Mins)
-		PoliceRequired = 3
+		PoliceRequired = 1
 	},
 	-- BARS
 	["Yellow Jack Panorama Dr | Sandy Shores"] = {
@@ -217,7 +217,7 @@ Config.Zones = {
 		Robbed = 0, -- DO NOT CHANGE
 		TimeToRob = 300, -- Default 300 (5Mins)
 		TimeBeforeNewRob = 1800, -- Default 1800 (30Mins)
-		PoliceRequired = 3
+		PoliceRequired = 1
 	},
 	["Tequi-La-La Eclipse Blvd | Los Santos"] = {
 		Coords = vector3(-562.05, 287.45, 81.18),
@@ -227,7 +227,7 @@ Config.Zones = {
 		Robbed = 0, -- DO NOT CHANGE
 		TimeToRob = 300, -- Default 300 (5Mins)
 		TimeBeforeNewRob = 1800, -- Default 1800 (30Mins)
-		PoliceRequired = 3
+		PoliceRequired = 1
 	},
 	["Vanilla Unicorn Elgin Ave | Los Santos"] = {
 		Coords = vector3(94.2, -1292.61, 28.27),
@@ -237,7 +237,7 @@ Config.Zones = {
 		Robbed = 0, -- DO NOT CHANGE
 		TimeToRob = 300, -- Default 300 (5Mins)
 		TimeBeforeNewRob = 1800, -- Default 1800 (30Mins)
-		PoliceRequired = 3
+		PoliceRequired = 1
 	},
 	["Bahama Mamas Marathon Ave | Los Santos"] = {
 		Coords = vector3(-1381.79, -632.53, 29.82),
@@ -247,7 +247,7 @@ Config.Zones = {
 		Robbed = 0, -- DO NOT CHANGE
 		TimeToRob = 300, -- Default 300 (5Mins)
 		TimeBeforeNewRob = 1800, -- Default 1800 (30Mins)
-		PoliceRequired = 3
+		PoliceRequired = 1
 	},
 	-- BANKS
 	["Fleeca Bank Vespucci Boulevard | Los Santos"] = {
@@ -258,7 +258,7 @@ Config.Zones = {
 		Robbed = 0, -- DO NOT CHANGE
 		TimeToRob = 450, -- Default 450 (7.5Mins)
 		TimeBeforeNewRob = 1800, -- Default 1800 (30Mins)
-		PoliceRequired = 6
+		PoliceRequired = 2
 	},
 	["Fleeca Bank Great Ocean Hwy | Los Santos"] = {
 		Coords = vector3(-2957.66, 481.45, 14.69),
@@ -268,7 +268,7 @@ Config.Zones = {
 		Robbed = 0, -- DO NOT CHANGE
 		TimeToRob = 450, -- Default 450 (7.5Mins)
 		TimeBeforeNewRob = 1800, -- Default 1800 (30Mins)
-		PoliceRequired = 6
+		PoliceRequired = 2
 	},
 	["Fleeca Bank Route 68 | Paleto Bay"] = {
 		Coords = vector3(1176.62, 2711.78, 37.1),
@@ -278,7 +278,7 @@ Config.Zones = {
 		Robbed = 0, -- DO NOT CHANGE
 		TimeToRob = 450, -- Default 450 (7.5Mins)
 		TimeBeforeNewRob = 1800, -- Default 1800 (30Mins)
-		PoliceRequired = 6
+		PoliceRequired = 2
 	},
 	["Fleeca Bank Blvd Del Perro | Los Santos"] = {
 		Coords = vector3(-1212.11, -336.0, 36.79),
@@ -288,7 +288,7 @@ Config.Zones = {
 		Robbed = 0, -- DO NOT CHANGE
 		TimeToRob = 450, -- Default 450 (7.5Mins)
 		TimeBeforeNewRob = 1800, -- Default 1800 (30Mins)
-		PoliceRequired = 6
+		PoliceRequired = 2
 	},
 	["Fleeca Bank Hawick Ave 1 | Los Santos"] = {
 		Coords = vector3(-354.2, -54.06, 48.05),
@@ -298,7 +298,7 @@ Config.Zones = {
 		Robbed = 0, -- DO NOT CHANGE
 		TimeToRob = 450, -- Default 450 (7.5Mins)
 		TimeBeforeNewRob = 1800, -- Default 1800 (30Mins)
-		PoliceRequired = 6
+		PoliceRequired = 2
 	},
 	["Fleeca Bank Hawick Ave 2 | Los Santos"] = {
 		Coords = vector3(310.75, -283.07, 53.17),
@@ -308,7 +308,7 @@ Config.Zones = {
 		Robbed = 0, -- DO NOT CHANGE
 		TimeToRob = 450, -- Default 450 (7.5Mins)
 		TimeBeforeNewRob = 1800, -- Default 1800 (30Mins)
-		PoliceRequired = 6
+		PoliceRequired = 2
 	},
 	["Blaine County Savings Paleto Blvd | Paleto Bay"] = {
 		Coords = vector3(-107.06, 6474.80, 30.62),
@@ -318,7 +318,7 @@ Config.Zones = {
 		Robbed = 0, -- DO NOT CHANGE
 		TimeToRob = 450, -- Default 450 (7.5Mins)
 		TimeBeforeNewRob = 1800, -- Default 1800 (30Mins)
-		PoliceRequired = 6
+		PoliceRequired = 2
 	},
 	["Pacific Standard Vinewood Blvd | Los Santos"] = {
 		Coords = vector3(255.00, 225.85, 100.00),
@@ -328,6 +328,6 @@ Config.Zones = {
 		Robbed = 0, -- DO NOT CHANGE
 		TimeToRob = 600, -- Default 600 (10Mins)
 		TimeBeforeNewRob = 1800, -- Default 1800 (30Mins)
-		PoliceRequired = 8
+		PoliceRequired = 3
 	},
 }
