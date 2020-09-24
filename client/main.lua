@@ -213,7 +213,7 @@ Citizen.CreateThread(function()
 					ESX.ShowNotification(_U('rob_vehicle'))
 				else
 					if not IsRobberyStarted then -- if not IsRobberyStarted then
-						if ESX.PlayerData.job and ESX.PlayerData.job.name == 'unemployed' or ESX.PlayerData.job and ESX.PlayerData.job.name == 'gang' then
+						if ESX.PlayerData.job and ESX.PlayerData.job.name != 'police' then
 							ESX.TriggerServerCallback('esx_advancedholdup:checkRob', function(success)
 								if success then
 									local zone = CurrentActionData.zone
