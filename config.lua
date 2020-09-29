@@ -321,7 +321,7 @@ Config.Zones = {
 		PoliceRequired = 2
 	},
 	["Pacific Standard Vinewood Blvd | Los Santos"] = {
-		Coords = vector3(255.00, 225.85, 100.00),
+		Coords = vector3(255.00, 225.85, 100.50),
 		Marker = {Type = 1, r = 220, g = 110, b = 0, x = 1.5, y = 1.5, z = 1.0},
 		AreaSize = 15,
 		Reward = math.random(125000,1000000),
