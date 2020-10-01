@@ -1,5 +1,5 @@
 Config = {}
-Config.Locale = 'en'
+Config.Locale = 'nl'
 
 Config.DrawDistance	= 25
 Config.CoolDown = 15 -- How long in Mins before a New Robbery can be Started
