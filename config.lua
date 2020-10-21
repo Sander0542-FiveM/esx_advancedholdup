@@ -278,7 +278,7 @@ Config.Zones = {
 		Robbed = 0, -- DO NOT CHANGE
 		TimeToRob = 450, -- Default 450 (7.5Mins)
 		TimeBeforeNewRob = 1800, -- Default 1800 (30Mins)
-		PoliceRequired = 2
+		PoliceRequired = 1
 	},
 	["Fleeca Bank Blvd Del Perro | Los Santos"] = {
 		Coords = vector3(-1212.11, -336.0, 36.79),
@@ -288,7 +288,7 @@ Config.Zones = {
 		Robbed = 0, -- DO NOT CHANGE
 		TimeToRob = 450, -- Default 450 (7.5Mins)
 		TimeBeforeNewRob = 1800, -- Default 1800 (30Mins)
-		PoliceRequired = 2
+		PoliceRequired = 1
 	},
 	["Fleeca Bank Hawick Ave 1 | Los Santos"] = {
 		Coords = vector3(-354.2, -54.06, 48.05),
@@ -298,7 +298,7 @@ Config.Zones = {
 		Robbed = 0, -- DO NOT CHANGE
 		TimeToRob = 450, -- Default 450 (7.5Mins)
 		TimeBeforeNewRob = 1800, -- Default 1800 (30Mins)
-		PoliceRequired = 2
+		PoliceRequired = 1
 	},
 	["Fleeca Bank Hawick Ave 2 | Los Santos"] = {
 		Coords = vector3(310.75, -283.07, 53.17),
@@ -308,7 +308,7 @@ Config.Zones = {
 		Robbed = 0, -- DO NOT CHANGE
 		TimeToRob = 450, -- Default 450 (7.5Mins)
 		TimeBeforeNewRob = 1800, -- Default 1800 (30Mins)
-		PoliceRequired = 2
+		PoliceRequired = 1
 	},
 	["Blaine County Savings Paleto Blvd | Paleto Bay"] = {
 		Coords = vector3(-107.06, 6474.80, 30.62),
@@ -318,7 +318,7 @@ Config.Zones = {
 		Robbed = 0, -- DO NOT CHANGE
 		TimeToRob = 450, -- Default 450 (7.5Mins)
 		TimeBeforeNewRob = 1800, -- Default 1800 (30Mins)
-		PoliceRequired = 2
+		PoliceRequired = 1
 	},
 	["Pacific Standard Vinewood Blvd | Los Santos"] = {
 		Coords = vector3(255.00, 225.85, 100.50),
@@ -328,6 +328,6 @@ Config.Zones = {
 		Robbed = 0, -- DO NOT CHANGE
 		TimeToRob = 600, -- Default 600 (10Mins)
 		TimeBeforeNewRob = 1800, -- Default 1800 (30Mins)
-		PoliceRequired = 3
+		PoliceRequired = 2
 	},
 }
