@@ -258,7 +258,7 @@ Config.Zones = {
 		Robbed = 0, -- DO NOT CHANGE
 		TimeToRob = 450, -- Default 450 (7.5Mins)
 		TimeBeforeNewRob = 1800, -- Default 1800 (30Mins)
-		PoliceRequired = 2
+		PoliceRequired = 1
 	},
 	["Fleeca Bank Great Ocean Hwy | Los Santos"] = {
 		Coords = vector3(-2957.66, 481.45, 14.69),
@@ -268,7 +268,7 @@ Config.Zones = {
 		Robbed = 0, -- DO NOT CHANGE
 		TimeToRob = 450, -- Default 450 (7.5Mins)
 		TimeBeforeNewRob = 1800, -- Default 1800 (30Mins)
-		PoliceRequired = 2
+		PoliceRequired = 1
 	},
 	["Fleeca Bank Route 68 | Paleto Bay"] = {
 		Coords = vector3(1176.62, 2711.78, 37.1),
