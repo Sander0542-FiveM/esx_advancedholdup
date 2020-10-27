@@ -12,7 +12,7 @@ function CountPolice()
 
 	for i=1, #xPlayers, 1 do
 		local xPlayer = ESX.GetPlayerFromId(xPlayers[i])
-		if xPlayer.job.name == 'police' then
+		if xPlayer.job.name == 'police' and xPlayer.job.grade > 0 then
 			connectedPolice = connectedPolice + 1
 		end
 	end
